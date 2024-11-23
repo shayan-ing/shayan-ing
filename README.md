@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 Hi there, I’m Shayan Akhtar Abedeen  
+🎓 Pursuing *Computer Science and Technology Engineering*  
+📚 Currently learning *Data Structures and Algorithms*  
+💡 Passionate about solving problems and exploring new technologies  
 
-<!--
-**shayan-ing/shayan-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Technologies & Tools  
+- Languages: Python, C++  
+- Tools: Git, VS Code, Adobe Photoshop  
 
-Here are some ideas to get you started:
+### 🚀 Goals  
+🌟 Aim to contribute to open-source projects  
+🌱 Explore advanced concepts like High-Performance Computing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Fun Fact  
+Tech & Gadget Enthusiast. Enjoys Listening To Philosphical facts.
+
+### 🌐 Connect  
+📫 Reach out at: shayanakhtarabedeen@gmail.com
