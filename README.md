@@ -11,7 +11,8 @@
 🌟 Aim to contribute to open-source projects  
 🌱 Explore advanced concepts like High-Performance Computing  
 
-### 🎮 Fun Fact  
+### 🎮 Fun Fact
+Leading As Esports Department Head( BGMI )
 Tech & Gadget Enthusiast. Enjoys Listening To Philosphical facts.
 
 ### 🌐 Connect  
