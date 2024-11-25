@@ -17,3 +17,5 @@ Tech & Gadget Enthusiast. Enjoys Listening To Philosphical facts.
 
 ### 🌐 Connect  
 📫 Reach out at: shayanakhtarabedeen@gmail.com
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourrepo)
