@@ -18,4 +18,5 @@ Tech & Gadget Enthusiast. Enjoys Listening To Philosphical facts.
 ### 🌐 Connect  
 📫 Reach out at: shayanakhtarabedeen@gmail.com
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=shayan-ing.shayan-ing)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shayan-ing)
+
