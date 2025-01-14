@@ -47,7 +47,7 @@
 ## 📈 Competitive Skills
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF0000?style=for-the-badge&logo=java&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-1E90FF?style=for-the-badge&logo=java&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-00ff2e?style=for-the-badge&logo=cpp&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-1ad53f?style=for-the-badge&logo=cpp&logoColor=white)
 ![Team Management](https://camo.githubusercontent.com/221f981dec2b234283328f7474cb505606675c57985c772d5703d4736e6fe2e7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5465616d2b4d616e6167656d656e7426636f6c6f723d626c61636b266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 ## 🛢 Database
