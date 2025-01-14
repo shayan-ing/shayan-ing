@@ -1,13 +1,26 @@
-### 👋 Hi there, I’m Shayan Akhtar Abedeen  
-🎓 Pursuing *Computer Science and Technology Engineering*  
-📚 Currently learning *Data Structures and Algorithms*  
-💡 Passionate about solving problems and exploring new technologies  
+<h1 align="center">Hi 👋, I'm Shayan Akhtar Abedeen</h1>
+<h3 align="center">A passionate CSE Undergrad. From India</h3>
 
-### 🚀 Goals  
-🌟 Aim to contribute to open-source projects  
-🌱 Explore fields like Data Science And UI/UX Designing.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan-ing&label=Profile%20views&color=0e75b6&style=flat" alt="shayan-ing" /> </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=shayan-ing)
+- 🌱 I’m currently learning **DSA And Data Science**
+
+- 🔭 I’m currently working on **Data Analysis Projects**
+
+- 💬 Ask me about **Data Sc. & Analysis**
+  
+- 📫 How to reach me **shayanakhtarabedeen@gmail.com**
+
+- ⚡ Fun fact **📱Gadgets & 👾Technology Geek**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shayan akhtar abedeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan akhtar abedeen" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shayan_ing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shayan_ing" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shayan-ing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shayan-ing" height="30" width="40" /></a>
+</p>
+
+
 
 ## 👨‍💻 Languages
 ![C++](https://camo.githubusercontent.com/00703943db13b61f2b5f6aecfcfa0f80384e2e7cd628866ec18fbc4c87e5eef9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4325324225324226636f6c6f723d303035393943266c6f676f3d43253242253242266c6f676f436f6c6f723d464646464646266c6162656c3d)
@@ -57,11 +70,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C5C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3E5F6E?style=for-the-badge&logo=python&logoColor=white)
 
-
-
-
-
-
 ## 💻 Operating System
 ![WINDOWS](https://camo.githubusercontent.com/03d0eda0aa119344ab9473b6798da902be11d07b734edd46ceba20efd48bf842/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d57696e646f777326636f6c6f723d303037384436266c6f676f3d57696e646f7773266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![iPadOS](https://img.shields.io/badge/iPadOS-000000?style=for-the-badge&logo=ipad&logoColor=white)
@@ -72,12 +80,9 @@
 ![LeetCode](https://camo.githubusercontent.com/23789881ffdcba2c0bc471403d912f5ac9a599a840d74990de22c51fab16cb49/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c656574436f646526636f6c6f723d323232323232266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d464641313136266c6162656c3d)
 
 
-### 🎮 Fun Fact
-Leading As Esports Department Head( BGMI )
-Tech & Gadget Enthusiast. Enjoys Listening To Philosphical facts.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayan-ing&show_icons=true&locale=en&layout=compact" alt="shayan-ing" /></p>
 
-### 🌐 Connect  
-📫 Reach out at: shayanakhtarabedeen@gmail.com
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayan-ing&show_icons=true&locale=en" alt="shayan-ing" /></p>
 
 
 
