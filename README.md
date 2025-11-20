@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA And Data Science**
 
-- 🔭 I’m currently working on **Data Analysis Projects**
+- 🔭 I’m currently preparing for **GATE 2026**
 
 - 💬 Ask me about **Data Sc. & Analysis**
   
